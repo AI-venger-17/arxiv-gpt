@@ -9,6 +9,7 @@
 - **Automated summarization**: Generates concise 3-bullet-point summaries using an LLM.
 - **Interactive UI**: Built with Streamlit for easy topic exploration.
 - **Structured output**: Displays paper title, authors, publication date, and summary with links to originals.
+- **PDF Export**: Download a formatted PDF report of the fetched papers and their summaries.
 
 ## 🛠 Tech Stack
 - **Python**: Core programming language.
